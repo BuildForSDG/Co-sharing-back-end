@@ -1,17 +1,20 @@
-barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
+Co-sharing allows idea owners to share and collaborate with idea owners(with the same or similar idea), Investors, Developers, Designers and any other stakeholders or tools needed to implement an idea.
+
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d2d84b7b2f31466b90fadb98149c4bd0)](https://app.codacy.com/gh/BuildForSDG/Co-sharing-back-end?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Co-sharing-back-end&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d2d84b7b2f31466b90fadb98149c4bd0)](https://app.codacy.com/gh/BuildForSDG/Co-sharing-back-end?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Co-sharing-back-end&utm_campaign=Badge_Grade_Settings)
-[![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
+
+
 
 
 ## About
 
-What is this project about. Ok to enrich here or the section above it with an image. 
+Co-sharing allows is a web-based solution that allows its users to share ideas and collaborate together using their skills and resources to help implement the shared idea.  
 
-Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
 
-This is a simple JavaScript starter repo template for setting up your project. The setup contains
+
+This project repo is created from JavaScript starter repo template for setting up project.
+The setup contains
 
 - Jest: For runnung tests. We strongly recommend that JavaScript projects use Jest
 
@@ -19,11 +22,14 @@ This is a simple JavaScript starter repo template for setting up your project. T
 
 ## Why
 
-Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
 
+Many people have brilliant idea but lack the skills, resources and technical know how to implement it. 
+with co-sharing,more idea will receive not  just the financial support from different people from around the world interested in an idea, they will also be able to tap into the same skill power available to building an open sourced project, this time right from the idea stage.
+The SDG GOAL 9 is been targeted by this projectalong with those that the goal is targeted i.e Develop quality, reliable, sustainable and resilient infrastructure through bettee and improved implementation of ideas that help build this resilient infrastructure.
 ## Usage
- How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
 
+The platform will first be available as a web-app and later for Android, Ios, windows and other major operating system that is available to anyone that can be willing to share or collaborate to build solutions that matters.
+Currently, this platform is een developed, the link to where t isi hosted will e made available once it is ready
 
 ## Setup
 
