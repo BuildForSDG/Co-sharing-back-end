@@ -54,14 +54,14 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 
 ## Authors
 
-List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project, including the TTL and mentor
+This will be updated latee build for now, all the members of Team 24 and mentor are the authors.
 
 ## Contributing
 If this project sounds interesting to you and you'd like to contribute, thank you!
-First, you can send a mail to buildforsdg@andela.com to indicate your interest, why you'd like to support and what forms of support you can bring to the table, but here are areas we think we'd need the most help in this project :
-1.  area one (e.g this app is about human trafficking and you need feedback on your roadmap and feature list from the private sector / NGOs)
-2.  area two (e.g you want people to opt-in and try using your staging app at staging.project-name.com and report any bugs via a form)
-3.  area three (e.g here is the zoom link to our end-of sprint webinar, join and provide feedback as a stakeholder if you can)
+First, you can send a mail to haastrupea@gmail.com indicate your interest, why you'd like to support and what forms of support you can bring to the table, but here are areas we think we'd need the most help in this project :
+1.  area one, thisthis app is currently been worked on as a web app
+2.  area two, youyou want people to opt-in and try using your staging app at staging.project-name.com and report any bugs via a form.
+3.  area three, join us and provide feedback as a stakeholder if you can
 
 ## Acknowledgements
 
@@ -69,7 +69,7 @@ Did you use someone else’s code?
 Do you want to thank someone explicitly?
 Did someone’s blog post spark off a wonderful idea or give you a solution to nagging problem?
 
-It's powerful to always give credit.
+Igthanks to Africavsvirus initiative, the made me witness, while serving as a mentor on the initiative, that there are thousands of people out there that have beautiful ideas but skill set and other resources are lacking and also that there are people with the same idea this is captured in the fact that there were over 3000 ideas that was submitted to be worked n buot only 750 was finally submitted to be worked on, this is due to the fact that different people have the same r similaro ideas that they can resonate their skills and resources together on to bring about fast implementation of such idea.
 
 ## LICENSE
 MIT
